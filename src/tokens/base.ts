@@ -27,6 +27,7 @@ export enum CoinKey {
   WLD = 'WLD', // World Coin Token
   LSK = 'LSK', // Lisk Token
   BERA = 'BERA', // Berachain Token
+  PLS = 'PLS', // PulseChain
 
   // Solana
   SOL = 'SOL',
