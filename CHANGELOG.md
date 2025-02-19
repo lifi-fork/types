@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [16.11.0](https://github.com/lifinance/types/compare/v16.10.1...v16.11.0) (2025-02-19)
+
+
+### Features
+
+* **tokens:** add WPLS to CoinKey enum ([f293da6](https://github.com/lifinance/types/commit/f293da6234b1da36846b79f99d65ed35f4bd8086))
+
 ### [16.10.1](https://github.com/lifinance/types/compare/v16.10.0...v16.10.1) (2025-02-19)
 
 ## [16.10.0](https://github.com/lifinance/types/compare/v16.9.1...v16.10.0) (2025-02-19)
